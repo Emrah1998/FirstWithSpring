@@ -71,7 +71,7 @@ public class Ms28SpringApplication {
 					yn = ab.next();
 				}
 			}
-			System.out.println("Tesekkurler");
+			System.out.println("Bize guvendiginiz ucun size tesekkur edirik");
 		}
 	}
 }
